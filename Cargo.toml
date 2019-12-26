@@ -1,5 +1,5 @@
 [package]
-name = "rusttest"
+name = "encdec"
 version = "0.1.0"
 authors = ["nori"]
 edition = "2018"
