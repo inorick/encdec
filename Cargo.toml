@@ -1,0 +1,11 @@
+[package]
+name = "rusttest"
+version = "0.1.0"
+authors = ["nori"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+orion = "0.14.4"
+rpassword = "4.0"
